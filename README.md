@@ -1,4 +1,5 @@
-# pokeproject
-Pokemon with data science
+# Projects
+-Pokemon with data science
+-Steam analisis
 
-status: Finished
+status: In process
